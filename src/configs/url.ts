@@ -1,4 +1,4 @@
 export const apiUrl = "https://jsonplaceholder.typicode.com";
-const base_url = "localhost:5000";
+const base_url = "rails-chat.alfian-py.site";
 export const socketUrl = "ws://" + base_url + "/cable"
-export const railsUrl = "http://" + base_url
+export const railsUrl = "https://" + base_url
