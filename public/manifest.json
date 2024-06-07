@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Prisma App",
+  "name": "Live Chat APP using Ruby on Rails and ActionCable",
   "icons": [
     {
       "src": "favicon.ico",
